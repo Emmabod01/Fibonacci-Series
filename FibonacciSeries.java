@@ -18,7 +18,7 @@ Create a variable num2  of int and assign value 1.
 
 Print num1 and num2 
 
-Run for loop from 2 to 10 
+Run for loop for number of elements
 
 Create local variables num3 of type int 
 
